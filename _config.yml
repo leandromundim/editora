@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title-bold: Ed. Liberdade
-title-normal: by Mundim
+title-bold: Editora Liberdade
+title-normal: feito por Mundim
 email: leandroresendemundim@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/editora" # the subpath of your site, e.g. /blog
