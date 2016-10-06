@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como publicar
-description: Lorem ipsum dolor est
+description: Veja como publicar.
 image: assets/images/pic11.jpg
 nav-menu: yes
 ---
