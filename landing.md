@@ -29,7 +29,7 @@ nav-menu: yes
 	<section id="one">
 		<div class="inner">
 			<header class="major">
-				<h2>Sed amet aliquam</h2>
+				<h2>Precisamos de você!</h2>
 			</header>
 			<p>Ajude a financiar essa ideia. Desejamos que a <b>Editora Liberdade</b> continue oferecendo serviços de qualidade e custo ZERO para todos comitês científicos. Mas para manter esse projeto qualquer ajuda é bem vinda.</p>
 		</div>
